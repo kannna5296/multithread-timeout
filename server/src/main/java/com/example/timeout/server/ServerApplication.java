@@ -1,4 +1,4 @@
-package com.example.timeout.client;
+package com.example.timeout.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

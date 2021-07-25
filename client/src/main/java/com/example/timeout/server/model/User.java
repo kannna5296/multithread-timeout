@@ -1,4 +1,4 @@
-package com.example.timeout.client;
+package com.example.timeout.server.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class User {
 
-	private int id;
+  private int id;
 
-	private String name;
+  private String name;
 
 }

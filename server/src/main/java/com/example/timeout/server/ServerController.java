@@ -1,4 +1,4 @@
-package com.example.timeout.client;
+package com.example.timeout.server;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
